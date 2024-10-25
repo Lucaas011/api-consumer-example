@@ -3,10 +3,14 @@
 Este repositório contém um exemplo simples de como consumir uma API usando JavaScript. O código faz uma requisição a uma URL de API e exibe a resposta no console.
 
 
+
 Exemplos de APIs para Consumir
 
 
+
 Aqui estão alguns sites onde você pode encontrar APIs públicas para testar:
+
+
 
 JSONPlaceholder: Uma API falsa para testes e protótipos. É ótimo para testar chamadas de API sem necessidade de autenticação.
 
